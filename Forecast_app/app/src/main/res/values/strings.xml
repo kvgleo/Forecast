@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="temp">Temperatura</string>
+    <string name="cid">Cidade</string>
+    <string name="nCid">nome do local...</string>
+    <string name="clima">Clima</string>
+    <string name="buscar">Buscar</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="temp">Temperature</string>
+    <string name="cid">City</string>
+    <string name="nCid">local name...</string>
+    <string name="clima">Climate</string>
+    <string name="buscar">Search</string>
+</resources>
